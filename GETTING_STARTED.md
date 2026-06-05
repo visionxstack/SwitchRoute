@@ -627,7 +627,7 @@ You now know how to:
 ### 📚 Additional Resources
 
 - **Main README:** [README.md](README.md)
-- **GitHub Repository:** [https://github.com/vision-dev1/SwitchRoute](https://github.com/vision-dev1/SwitchRoute)
+- **GitHub Repository:** [https://github.com/visionxstack/SwitchRoute](https://github.com/visionxstack/SwitchRoute)
 - **Go Documentation:** [https://go.dev/doc/](https://go.dev/doc/)
 
 ---
